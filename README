@@ -1,1 +1,12 @@
-Hello Gitty
+This is my "Hello Gitty" project.
+========================================================================
+
+I made this python script to get better overview about all the files 
+inside some folders and to search, filter and open the files quickly 
+without moving back and forward between folders. It can be also used to 
+mesuring total size of of some types of files in folder. It also can 
+take arguments from terminal to specify search_word and folder. 
+Search_word filters out all files that have this text written inside 
+them.
+
+ - Virgo Pihlapuu
